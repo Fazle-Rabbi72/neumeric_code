@@ -5,7 +5,7 @@ using namespace std;
 double f(double x)
 {
     
-    return x * x;
+    return exp(x);
 }
 
 double simpsonsOneThird(double a, double b, int n)
