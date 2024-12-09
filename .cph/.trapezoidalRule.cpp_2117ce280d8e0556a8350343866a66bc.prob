@@ -1,0 +1,1 @@
+{"name":"Local: trapezoidalRule","url":"c:\\Users\\User\\OneDrive\\Desktop\\numeric\\trapezoidalRule.cpp","tests":[{"id":1732009031104,"input":"0 0.6 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\OneDrive\\Desktop\\numeric\\trapezoidalRule.cpp","group":"local","local":true}
